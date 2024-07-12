@@ -1,0 +1,12 @@
+# Ignore best model checkpoint
+best_model.pth.tar
+
+# Ignore data directory
+/data/
+
+# Ignore pycache directories
+__pycache__/
+**/__pycache__/
+
+# Ignore training log files
+training_log_*.log
